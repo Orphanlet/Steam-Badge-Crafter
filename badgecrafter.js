@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Badge Crafter - Orphanlet
 // @version      1.6.3
-// @description  AutoCraft Steam Community Badges
-// @author       10101000
+// @description  Automatically craft Steam Community badges
+// @author       Orphanlet
 // @include      /^https?:\/\/steamcommunity\.com\/+(id\/+[A-Za-z0-9$-_.+!*'(),]+|profiles\/+[0-9]+)\/+(badges\/?|gamecards\/+[0-9]+\/?).*$/
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
 // @copyright    2023
