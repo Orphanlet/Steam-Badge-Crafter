@@ -1,3 +1,5 @@
+https://camo.githubusercontent.com/bbf01f2b18e029f92cf5890a52be6591d2655e792dc711a6a9b4c38faf5418ae/68747470733a2f2f692e696d6775722e636f6d2f505543426641362e706e67
+
 # Steam Badge Crafter
 
 This is a script to craft badges automatically in your browser so you don't have to keep navigating back to your badge craft screen or wait for long animations to complete. To be able to run this script in a browser, you will need Tampermonkey. You can download it on your browsers respective extension/add-on toolbar.
